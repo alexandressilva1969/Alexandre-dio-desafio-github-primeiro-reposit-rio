@@ -1,2 +1,2 @@
 # Alexandre-dio-desafio-github-primeiro-reposit-rio
-Desafio de Projeto sobre Git/Github
+Desafio de Projeto sobre Git/Github - Alexandre
